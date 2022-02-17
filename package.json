@@ -12,7 +12,8 @@
     "nodemon": "^2.0.15",
     "pino": "^7.8.0",
     "pino-pretty": "^7.5.1",
-    "tsc": "^2.0.4"
+    "tsc": "^2.0.4",
+    "yup": "^0.32.11"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.0",
